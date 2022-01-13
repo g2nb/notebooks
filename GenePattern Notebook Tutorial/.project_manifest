@@ -1,0 +1,10 @@
+{
+    "author": "",
+    "citation": "",
+    "container": "genepattern/genepattern-notebook:21.12",
+    "description": "A tutorial on how to use the basic features of the GenePattern Notebook environment.",
+    "image": "Legacy",
+    "name": "GenePattern Notebook Tutorial",
+    "quality": "",
+    "tags": ""
+}
